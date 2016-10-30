@@ -1,0 +1,23 @@
+{
+  "name": "bitcore-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonykung06/bitcore-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonykung06/bitcore-example/issues"
+  },
+  "homepage": "https://github.com/tonykung06/bitcore-example#readme",
+  "dependencies": {
+    "bitcore-explorers": "^1.0.1",
+    "bitcore-lib": "^0.13.19"
+  }
+}
